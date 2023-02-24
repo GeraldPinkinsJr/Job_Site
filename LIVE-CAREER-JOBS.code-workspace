@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Coffee shop"
+		},
+		{
+			"path": "../../.Trash/LIVE-TIC-TAC-TOE"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Coffee shop"
+	}
+}
